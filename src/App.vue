@@ -10,10 +10,8 @@
           Terug naar de website
         </a>
         <div class="mt-4 text-white">
-          Van harte welkom op de website van het gala van 2024! Het feest zal plaatsvinden op 1 maart, aan het einde
-          van de diesweek. Het thema is al eerder bekend gemaakt: 'Western Chique'!
-          Verder is het, omdat het gala in een schrikkeljaar valt, dit jaar aan de dames om een brief te schrijven aan
-          de heren.
+          Van harte welkom op de website van het gala van 2025! Het feest zal plaatsvinden op 28 februari, aan het einde
+          van de lustrummaand. Het thema is al eerder bekend gemaakt: 'Casino Royale'!
           <br>Vergeet niet om u en uw date aan te melden voor het gala met het formulier hieronder.
         </div>
         <div class="mt-4 text-[var(--gala-gold-light)]">
@@ -34,10 +32,10 @@
                 Brief schrijven
               </div>
               <div class="text-[var(--gala-gold-light)] mt-2">
-                De dame vraagt de heer, middels een handgeschreven brief met gouden inkt op roze papier, of hij haar wil
-                vergezellen op het gala. De heer antwoordt de dame met een handgeschreven brief met zilveren inkt op
-                blauw papier.
-                Indien hij ingaat op haar verzoek, nodigt hij haar uit om een kopje thee te komen drinken.
+                De heer vraagt de dame, middels een handgeschreven brief met zilveren inkt op
+                blauw papier, of zij zijn wil
+                vergezellen op het gala. De dame antwoordt de heer met een handgeschreven brief met gouden inkt op roze papier.
+                Indien hij ingaat op zijn verzoek, nodigt hij haar uit om een kopje thee te komen drinken.
               </div>
             </div>
             <div>
@@ -45,13 +43,14 @@
                 Theedate
               </div>
               <div class="text-[var(--gala-gold-light)] mt-2">
-                Tijdens de visite wordt er niet over het gala gesproken. De heer laat door de versnapering bij de thee
-                weten wat de dame kan verwachten:
+                Tijdens de visite wordt er niet over het gala gesproken. De dame laat door de versnapering bij de thee
+                weten wat de heer kan verwachten:
                 <ul class="list-disc list-inside mt-2">
-                  <li>Niets bij de thee: de dame kan niets verwachten.</li>
-                  <li>Koekjes bij de thee: de dame mag met de heer naar het gala, maar mag daarna niets meer verwachten.</li>
-                  <li>Zelfgebakken of gekochte taart (geen slagroomtaart): de heer is in meer dan alleen het gala geïnteresseerd, de dame moet hem na het gala veroveren.</li>
-                  <li>Slagroomtaart: de dame heeft de heer al veroverd.</li>
+                  <li>Niets bij de thee: de heer kan niets verwachten.</li>
+                  <li>Koekjes bij de thee: de heer mag met de dame naar het gala, maar mag daarna niets meer verwachten.</li>
+                  <li>Zelfgebakken of gekochte taart (geen slagroomtaart): de dame is in meer dan alleen het gala geïnteresseerd,
+                     de heer moet haar na het gala veroveren.</li>
+                  <li>Slagroomtaart: de heer heeft de dame al veroverd.</li>
                 </ul>
               </div>
             </div>
@@ -60,12 +59,12 @@
                 Corsages
               </div>
               <div class="text-[var(--gala-gold-light)] mt-2">
-                Tijdens het gala is het gebruikelijk om corsages te dragen. Zo wordt duidelijk welke heer bij welke dame
-                hoort. De dame verzorgt de corsages voor zowel haar galadate
-                 als zichzelf. De corsage mag de dame zelf
-                bepalen, maar wel moet uit de corsage duidelijk worden hoe de dame en heer elkaar hebben ontmoet.
-                Echter, mocht de dame geen creativiteit hebben en verkeren in tijdnood, dan kan zij altijd kiezen voor een bloem
-                als corsage. De heer draagt de corsage altijd naar boven en de dame draagt de corsage naar beneden.
+                Tijdens het gala is het gebruikelijk om corsages te dragen. Zo wordt duidelijk welke dame bij welke heer
+                hoort. De heer verzorgt de corsages voor zowel haar galadate
+                 als zichzelf. De corsage mag de heer zelf
+                bepalen, maar wel moet uit de corsage duidelijk worden hoe de heer en dame elkaar hebben ontmoet.
+                Echter, mocht de heer geen creativiteit hebben en verkeren in tijdnood, dan kan zij altijd kiezen voor een bloem
+                als corsage. De dame draagt de corsage altijd naar boven en de heer draagt de corsage naar beneden.
               </div>
             </div>
             <div>
@@ -74,8 +73,8 @@
               </div>
               <div class="text-[var(--gala-gold-light)] mt-2">
                 De heer haalt de dame bij haar huis op en begroet haar met een voorzichtige handkus.
-                Wanneer zij samen lopen, loopt de dame aan de linkerzijde van de heer. De heer laat de
-                dame altijd voorgaan, met uitzondering van de trap, om ongepaste blikken te voorkomen.
+                Wanneer zij samen lopen, loopt de heer aan de linkerzijde van de dame. De dame laat de
+                heer altijd voorgaan, met uitzondering van de trap, om ongepaste blikken te voorkomen.
               </div>
             </div>
             <div>
@@ -113,7 +112,7 @@
                 </div>
               </div>
               <div class="text-[var(--gala-gold-light)] mt-4">
-                Tijdens het gala hebben zowel de dame als de heer weinig met zich mee. Een horloge
+                Tijdens het gala hebben zowel de heer als de dame weinig met zich mee. Een horloge
                 dragen is ongepast. De heer draagt twee zakdoeken met zich mee, een voor hem en een
                 voor de dame. De vrouw mag een klein handtasje meedragen. Een mobiele telefoon is
                 toegestaan mits deze op stil staat.
