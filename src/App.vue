@@ -3,7 +3,7 @@
 
 <template>
   <div class="bg-gala-dark-red min-h-screen space-y-8">
-    <img src="@/assets/gala-top.png" alt="Gala Top" class="w-min-full min-h-16 object-cover">
+    <img src="@/assets/gala-top.png" alt="Gala Top" class="min-w-full min-h-16 object-cover">
     <div class="flex justify-center font-playfair-display italic font-medium">
       <div class="w-full max-w-3xl">
         <div class="p-4 w-full">
@@ -131,7 +131,7 @@
         </div>
       </div>
     </div>
-    <img src="@/assets/gala-bottom.png" alt="Gala Bottom" class="w-min-full min-h-16 object-cover">
+    <img src="@/assets/gala-bottom.png" alt="Gala Bottom" class="min-w-full min-h-16 object-cover">
   </div>
 </template>
 
