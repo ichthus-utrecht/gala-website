@@ -18,7 +18,7 @@
             <br>Vergeet niet om u en uw date aan te melden voor het gala met het formulier hieronder.
           </div>
           <div class="mt-4 text-gala-gold-medium font-semibold">
-            link aanmeldformulier
+            <a href="https://forms.gle/5YgK7GbGLHwrpCDV8">link aanmeldformulier</a>
           </div>
 
           <!-- Uitleg Etiquette -->
