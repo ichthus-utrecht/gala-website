@@ -80,8 +80,8 @@
                 </div>
                 <div class="text-gala-gold-light mt-2">
                   De heer haalt de dame bij haar huis op en begroet haar met een voorzichtige handkus.
-                  Wanneer zij samen lopen, loopt de heer aan de linkerzijde van de dame. De dame laat de
-                  heer altijd voorgaan, met uitzondering van de trap, om ongepaste blikken te voorkomen.
+                  Wanneer zij samen lopen, loopt de heer aan de linkerzijde van de dame. De heer laat de
+                  dame altijd voorgaan, met uitzondering van de trap, om ongepaste blikken te voorkomen.
                 </div>
               </div>
               <div>
@@ -129,7 +129,7 @@
                 <div class="text-gala-gold-light mt-4">
                   Tijdens het gala hebben zowel de heer als de dame weinig met zich mee. Een horloge
                   dragen is ongepast. De heer draagt twee zakdoeken met zich mee, één voor hem en één
-                  voor de dame. De vrouw mag een klein handtasje meedragen. Een mobiele telefoon is
+                  voor de dame. De dame mag een klein handtasje meedragen. Een mobiele telefoon is
                   toegestaan mits deze op stil staat.
                 </div>
               </div>
